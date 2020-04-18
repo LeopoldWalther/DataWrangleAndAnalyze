@@ -6,10 +6,10 @@ twitter-API queries and a file downloaded programmatically using the Requests
 library.
 
 ## Quickstart
- _xxx_ :
-
-```$ conda```
-
+1. Install Anaconda, best with homebrew: `brew cask install anaconda `
+2. To set path variable run : ```conda init```
+3. Open Jupyter Notebookvwirh ```jupyter notebook```
+4. In the notebook open the .ipyn-file.
 
 
 ## Structure
