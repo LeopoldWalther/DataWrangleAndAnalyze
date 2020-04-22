@@ -23,8 +23,18 @@ library.
    - Qualitiy beeing: Completeness, Validity, Accuracy, Consistency
    - Tidiniss beeing: each variable is a column, each observation is a row, each type of observational unit is a table.
 3. Clean
+   - Requirements for Clean data:
+     - Quality requirements:
+       - Completeness: All necessary records in dataframes, no specific rows, columns or cells missing.
+       - Validity: No records available, that do not conform schema.
+       - Accuracy: No wrong data, that is valid.
+       - Consistency: No data, that is valid and accurate, but referred to in multiple correct ways.
+      - Tidiniss requirements (as defined by Hadley Wickham):
+        - each variable is a column
+        - each observation is a row
+        - each type of observational unit is a table.
 4. Analysis & Visualization
-5. Store 
+5. Store
 
 ## Dependencies
 The following python libraries are used in the project:
