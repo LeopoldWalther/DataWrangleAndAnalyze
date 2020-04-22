@@ -2,4 +2,7 @@ example_notebooks/
 image-predictions.tsv
 twitter-credentials_LeopoldWalther.csv
 pw.json
-
+.ipynb_checkpoints/
+df_nonames.csv
+df_tweet_api_info.csv
+tweet_json.txt
