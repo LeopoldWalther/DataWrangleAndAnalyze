@@ -6,3 +6,16 @@ pw.json
 df_nonames.csv
 df_tweet_api_info.csv
 tweet_json.txt
+A_MeanWeRateDogsRatingDogStage.png
+B_MeanAmountFavoritesDogStage.png
+C_MeanAmountRetweetsDogStage.png
+D_MeanWeRateDogsRatingDogRace.png
+E_MeanAmountFavoriteCountsDogRace.png
+F_MeanAmountRetweetCountsDogRace.png
+G_MostCommonDogNamesDataset.jpg
+act_report.docx
+wrangle_act.html
+wrangle_report.docx
+wrangle_report.pdf
+.DS_Store
+~$t_report.docx
