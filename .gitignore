@@ -1,3 +1,4 @@
+DataWrangleAndAnalyze.zip
 example_notebooks/
 image-predictions.tsv
 twitter-credentials_LeopoldWalther.csv
@@ -16,6 +17,5 @@ G_MostCommonDogNamesDataset.jpg
 act_report.docx
 wrangle_act.html
 wrangle_report.docx
-wrangle_report.pdf
 .DS_Store
 ~$t_report.docx
