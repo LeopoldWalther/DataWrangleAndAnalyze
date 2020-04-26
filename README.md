@@ -1,9 +1,12 @@
 # Wrangle and analyze data of WeRateDogs Twitter posts
 
 This project is part of the Udacity Nanodegree Data Analyst. It is based on data
-gathered via the downloaded twitter archive of the WeRateDogs account,
-twitter-API queries and a file downloaded programmatically using the Requests
-library.
+of the WeRateDog account. Main goal of this project is to follow through the
+complete Data Analysis process. Firstly data is gathered from different sources:
+ a local csv-file, a programmatically downloaded file and data downloaded via
+ the twitter API. Secondly the data from the different sources is visually and programmatically assessed to be cleaned in the next step for the final
+ analysis. The analysis compares the ratings, retweets and favorites of
+ different dog stages and races.
 
 ## Quickstart
 1. Install Anaconda, best with homebrew: `brew cask install anaconda `
